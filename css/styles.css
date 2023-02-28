@@ -222,6 +222,8 @@ button:focus,
 }
 
 .about-list {
+  align-items: center;
+  text-align: center;
   padding-left: 0px;
 }
 
