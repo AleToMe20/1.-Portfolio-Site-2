@@ -89,7 +89,6 @@ button:focus,
   color: var(--dark-grey)
 }
 
-
 .navigation-list__item--active {
   text-decoration: none;
 }
@@ -225,9 +224,11 @@ button:focus,
 }
 
 .about-list {
+  padding-left: 110px;
   align-items: center;
   text-align: center;
   padding-left: 0px;
+  justify-content: center;
 }
 
 .profile__portrait {
