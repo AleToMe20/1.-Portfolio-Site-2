@@ -224,11 +224,9 @@ button:focus,
 }
 
 .about-list {
-  padding-left: 110px;
-  align-items: center;
-  text-align: center;
-  padding-left: 0px;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
 
 .profile__portrait {
